@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 2fe4521c830388249914eeef80d7776d
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_deimaginator__x1_appear__0
+    21300002: npc_deimaginator__x1_appear__1
+    21300004: npc_deimaginator__x1_appear__2
+    21300006: npc_deimaginator__x1_appear__3
+    21300008: npc_deimaginator__x1_appear__4
+    21300010: npc_deimaginator__x1_appear__5
+    21300012: npc_deimaginator__x1_appear__6
+    21300014: npc_deimaginator__x1_appear__7
+    21300016: npc_deimaginator__x1_appear__8
+    21300018: npc_deimaginator__x1_appear__9
+    21300020: npc_deimaginator__x1_appear__10
+    21300022: npc_deimaginator__x1_appear__11
+    21300024: npc_deimaginator__x1_appear__12
+    21300026: npc_deimaginator__x1_appear__13
+    21300028: npc_deimaginator__x1_appear__14
+    21300030: npc_deimaginator__x1_appear__15
+    21300032: npc_deimaginator__x1_appear__16
+    21300034: npc_deimaginator__x1_appear__17
+    21300036: npc_deimaginator__x1_appear__18
+    21300038: npc_deimaginator__x1_appear__19
+    21300040: npc_deimaginator__x1_appear__20
+    21300042: npc_deimaginator__x1_appear__21
+    21300044: npc_deimaginator__x1_appear__22
+    21300046: npc_deimaginator__x1_appear__23
+    21300048: npc_deimaginator__x1_appear__24
+    21300050: Appears_0
+    21300052: Appears_1
+    21300054: Appears_2
+    21300056: Appears_3
+    21300058: Appears_4
+    21300060: Appears_5
+    21300062: Appears_6
+    21300064: Appears_7
+    21300066: Appears_8
+    21300068: Appears_9
+    21300070: Appears_10
+    21300072: Appears_11
+    21300074: Appears_12
+    21300076: Appears_13
+    21300078: Appears_14
+    21300080: Appears_15
+    21300082: Appears_16
+    21300084: Appears_17
+    21300086: Appears_18
+    21300088: Appears_19
+    21300090: Appears_20
+    21300092: Appears_21
+    21300094: Appears_22
+    21300096: Appears_23
+    21300098: Appears_24
+    21300100: Appears_25
+    21300102: Appears_26
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.333328
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Appears_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1488
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1302
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_7
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1116
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_10
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_11
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 930
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_14
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 744
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_20
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Appears_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

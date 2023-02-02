@@ -1,0 +1,309 @@
+fileFormatVersion: 2
+guid: 1c281c9e70ae4584ba5e382b85c07473
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Boy_0
+    21300002: Boy_3
+    21300004: Boy_4
+    21300006: Boy_6
+    21300008: Boy_11
+    21300010: Boy_12
+    21300012: Boy_13
+    21300014: Boy_18
+    21300016: Boy_19
+    21300018: Boy_20
+    21300022: Boy_30
+    21300026: Boy_34
+    21300028: Boy_39
+    21300030: Boy_53
+    21300032: Boy_66
+    21300034: Boy_whole
+    21300036: Boy_79
+    21300038: Boy_80
+    21300040: Boy_81
+    21300042: Boy_89
+    21300044: Boy_shirt
+    21300046: Boy_105
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Boy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 65
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 479
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 479
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 479
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 457
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 479
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 452
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 400
+        width: 35
+        height: 54
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 403
+        width: 21
+        height: 45
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 416
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 389
+        width: 38
+        height: 26
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 345
+        width: 124
+        height: 135
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 349
+        width: 49
+        height: 52
+      alignment: 9
+      pivot: {x: .823060036, y: .785395682}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 350
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_39
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 300
+        width: 66
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_53
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 236
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_66
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 162
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_whole
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 341
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_79
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 93
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_80
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 71
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_81
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 130
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_89
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 97
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_shirt
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 70
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Boy_105
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
